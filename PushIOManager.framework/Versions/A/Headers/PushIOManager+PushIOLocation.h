@@ -7,7 +7,7 @@
 
 #import <CoreLocation/CoreLocation.h>
 #import "PushIOManager.h"
-#import "PushiOManager+PushIOTrackers.h"
+#import "PushIOManager+PushIOTrackers.h"
 
 /**
  @discussion This class presents all PushIOManager location related calls.
